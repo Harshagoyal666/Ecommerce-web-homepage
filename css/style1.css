@@ -242,12 +242,12 @@ nav a:hover{
     
 }
 .footer_sub_2 h2{
-   margin-left: 10%;
+   margin-left: 2px;
 }
 .footer_sub_2{
     float:left;
     width:25%;
-    margin-left:10%;
+    margin-left:0;
     position: relative;
 }
 .footer_sub_2 ul li{
