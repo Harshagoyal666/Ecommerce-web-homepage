@@ -247,7 +247,7 @@ nav a:hover{
 .footer_sub_2{
     float:left;
     width:25%;
-    margin-left:0;
+    margin-left:0px;
     position: relative;
 }
 .footer_sub_2 ul li{
